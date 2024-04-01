@@ -7,7 +7,7 @@
 
 body {
     color: #000000;
-    background-color: #254385;
+    background: linear-gradient(to bottom, #254385, #98a6b8); 
     font-family: "Helvetica", "Arial", sans-serif;
     font-size: 16px;
     line-height: 1.3;
@@ -19,8 +19,8 @@ body {
 
 .speaker-form-header {
     text-align: center;
-    background-color: #999999;
-    border: 1px solid #D6D9DC;
+    background-color: #ffffff91;
+    border: 1px solid #344085;
     border-radius: 3px;
     
     width: 80%;
@@ -34,7 +34,7 @@ body {
 }
 
 .speaker-form {
-    background-color: #f0f0f0;
+    background-color: #f0f0f036;
     border:  1px solid #999999;
     border-radius: 3px;
 
@@ -126,7 +126,7 @@ body {
 }
 
 .form-row .instructions {
-    color: #999999;
+    color: #dbd6d6;
     font-size: 14px;
     margin-bottom: 30px;
 }
